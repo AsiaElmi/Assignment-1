@@ -1,0 +1,101 @@
+Pet Database Program.
+
+What would you like to do?
+1) View all pets
+2) Add more pets
+3) Update an existing pet
+4) Remove an existing pet
+5) Search pets by name
+6) Search pets by age
+7) Exit program
+ENTER Your choice -: 1
++----------------------+
+| ID | NAME       | AGE |
++----------------------+
++----------------------+
+0 rows in set.
+
+What would you like to do?
+1) View all pets
+2) Add more pets
+3) Update an existing pet
+4) Remove an existing pet
+5) Search pets by name
+6) Search pets by age
+7) Exit program
+ENTER Your choice -: 2
+
+add pet (name, age): tes
+Invalid format. Please enter: name age
+add pet (name, age): addsf 2
+add pet (name, age): asds 1
+add pet (name, age): sads31 1
+add pet (name, age): 
+Invalid format. Please enter: name age
+add pet (name, age): done
+3 pets added.
+
+What would you like to do?
+1) View all pets
+2) Add more pets
+3) Update an existing pet
+4) Remove an existing pet
+5) Search pets by name
+6) Search pets by age
+7) Exit program
+ENTER Your choice -: 1
++----------------------+
+| ID | NAME       | AGE |
++----------------------+
+|  0 | addsf      |   2 |
+|  1 | asds       |   1 |
+|  2 | sads31     |   1 |
++----------------------+
+3 rows in set.
+
+What would you like to do?
+1) View all pets
+2) Add more pets
+3) Update an existing pet
+4) Remove an existing pet
+5) Search pets by name
+6) Search pets by age
+7) Exit program
+ENTER Your choice -: 5
+Enter a name to search: asds
++----------------------+
+| ID | NAME       | AGE |
++----------------------+
+|  1 | asds       |   1 |
++----------------------+
+1 rows in set.
+
+What would you like to do?
+1) View all pets
+2) Add more pets
+3) Update an existing pet
+4) Remove an existing pet
+5) Search pets by name
+6) Search pets by age
+7) Exit program
+ENTER Your choice -: 6
+Enter age to search: 1
++----------------------+
+| ID | NAME       | AGE |
++----------------------+
+|  1 | asds       |   1 |
+|  2 | sads31     |   1 |
++----------------------+
+2 rows in set.
+
+What would you like to do?
+1) View all pets
+2) Add more pets
+3) Update an existing pet
+4) Remove an existing pet
+5) Search pets by name
+6) Search pets by age
+7) Exit program
+ENTER Your choice -: 7
+Goodbye...
+mac@MaCs-MacBook-Pro Assign1 % 
